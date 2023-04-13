@@ -1,5 +1,5 @@
 # Curso de Git y Github
-Repositorio para el [Curso profesional de Git y Github](https://platzi.com/cursos/git-github/) de la plataforma de cursos online [Platzi](https://platzi.com/), brindado por el profesor Freddy Vega.
+Repositorio para el [Curso profesional de Git y Github](https://platzi.com/cursos/git-github/) de la plataforma de cursos online [Platzi](https://platzi.com/),
 
 ## Algunos temas vistos
 - Introducción a Git.
